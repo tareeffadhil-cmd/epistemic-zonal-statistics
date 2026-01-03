@@ -90,3 +90,7 @@ Scholars, methodologists, educators, epidemiologists, and publishers interested 
 ---
 
 *This repository is not a finished product; it is a starting point for a new epistemic conversation in statistics.*
+## EZS Whitepapers
+
+📄 [View the EZS Whitepaper Series](whitepapers/)
+
