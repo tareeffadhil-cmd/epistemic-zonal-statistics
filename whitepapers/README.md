@@ -79,3 +79,13 @@ Scholars interested in:
 commenting on EZS concepts, or proposing cross-disciplinary applications
 
 are encouraged to open an Issue or submit a commentary proposal.
+## Intellectual Property Notice
+
+All original concepts, frameworks, and methodological structures presented
+under the Epistemic Zonal Statistics (EZS) initiative are the intellectual
+property of the founder.
+
+Public disclosure via this repository establishes authorship and priority.
+Academic use requires proper attribution. Commercial use requires
+explicit written permission.
+
